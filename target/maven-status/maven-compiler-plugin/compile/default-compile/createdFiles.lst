@@ -1,0 +1,11 @@
+everest\gold\point\system\controller\WebController.class
+everest\gold\point\system\models\PostPointResponse.class
+everest\gold\point\system\models\Login.class
+everest\gold\point\system\models\PointRedeemResponse.class
+everest\gold\point\system\models\PointResponse.class
+everest\gold\point\system\PointLoginController.class
+everest\gold\point\system\models\LocaleController.class
+everest\gold\point\system\models\PostPoint.class
+everest\gold\point\system\models\Registration.class
+everest\gold\point\system\models\Appconfig.class
+everest\gold\point\system\models\Response.class
